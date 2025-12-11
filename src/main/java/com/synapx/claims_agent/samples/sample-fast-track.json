@@ -1,0 +1,19 @@
+{
+  "policyNumber": "POL123",
+  "policyholderName": "John Doe",
+  "policyEffectiveFrom": "2025-01-01",
+  "policyEffectiveTo": "2025-12-31",
+  "incidentDate": "2025-03-10",
+  "incidentTime": "10:30",
+  "incidentLocation": "Hyderabad",
+  "incidentDescription": "Minor rear-end collision in traffic.",
+  "claimantName": "John Doe",
+  "thirdPartyNames": "Jane Smith",
+  "contactDetails": "john@example.com, +91-9999999999",
+  "assetType": "Car",
+  "assetId": "KA01AB1234",
+  "estimatedDamage": 15000,
+  "claimType": "motor",
+  "attachments": "photo1.jpg,photo2.jpg",
+  "initialEstimate": 15000
+}

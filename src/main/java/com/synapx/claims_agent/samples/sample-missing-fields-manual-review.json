@@ -1,0 +1,19 @@
+{
+  "policyNumber": "",
+  "policyholderName": "Alice Singh",
+  "policyEffectiveFrom": "2025-01-01",
+  "policyEffectiveTo": "2025-12-31",
+  "incidentDate": "2025-04-05",
+  "incidentTime": "14:30",
+  "incidentLocation": "Bangalore",
+  "incidentDescription": "Low-speed bump in parking lot.",
+  "claimantName": "Alice Singh",
+  "thirdPartyNames": "Ravi Kumar",
+  "contactDetails": "alice@example.com, +91-8888888888",
+  "assetType": "Car",
+  "assetId": "",
+  "estimatedDamage": 8000,
+  "claimType": "motor",
+  "attachments": "",
+  "initialEstimate": null
+}

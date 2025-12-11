@@ -1,0 +1,19 @@
+{
+  "policyNumber": "INJ001",
+  "policyholderName": "Rahul Verma",
+  "policyEffectiveFrom": "2025-02-01",
+  "policyEffectiveTo": "2026-01-31",
+  "incidentDate": "2025-05-20",
+  "incidentTime": "09:15",
+  "incidentLocation": "Mumbai",
+  "incidentDescription": "Slip and fall at workplace, minor back injury.",
+  "claimantName": "Rahul Verma",
+  "thirdPartyNames": "",
+  "contactDetails": "rahul@example.com, +91-7777777777",
+  "assetType": "Person",
+  "assetId": "EMP123",
+  "estimatedDamage": 40000,
+  "claimType": "injury",
+  "attachments": "medical_report.pdf",
+  "initialEstimate": 40000
+}

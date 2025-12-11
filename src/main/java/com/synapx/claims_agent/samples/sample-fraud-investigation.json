@@ -1,0 +1,19 @@
+{
+  "policyNumber": "FRAUD123",
+  "policyholderName": "Kiran Rao",
+  "policyEffectiveFrom": "2025-03-01",
+  "policyEffectiveTo": "2026-02-28",
+  "incidentDate": "2025-06-10",
+  "incidentTime": "22:45",
+  "incidentLocation": "Delhi",
+  "incidentDescription": "Reported collision appears staged and possibly fraud based on inconsistent statements.",
+  "claimantName": "Kiran Rao",
+  "thirdPartyNames": "Unknown",
+  "contactDetails": "kiran@example.com, +91-9666666666",
+  "assetType": "Car",
+  "assetId": "DL01CD5678",
+  "estimatedDamage": 60000,
+  "claimType": "motor",
+  "attachments": "photos.zip",
+  "initialEstimate": 60000
+}
